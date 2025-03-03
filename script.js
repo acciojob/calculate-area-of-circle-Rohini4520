@@ -6,4 +6,4 @@
 	 let area = radius * radius *pi;
 	 
 }
-calculateArea();
+calculateArea(area);
